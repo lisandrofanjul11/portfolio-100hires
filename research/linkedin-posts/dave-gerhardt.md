@@ -12,3 +12,13 @@ The annual marketing plan is mostly a fiction. By February, competitors launch n
 
 ### 3. Start finishing, stop starting
 Most marketing teams have 10+ open projects at any time. Everyone is busy, but nothing ships. Start finishing things before you start new ones. Focus on the smallest viable thing you can ship right now to get market feedback, instead of waiting for a massive launch.
+
+## Post 2: Why Founder-Led Content Outperforms Company Pages
+
+**Core idea:** LinkedIn is the #1 PR channel for B2B SaaS, but the strategy relies on personal profiles, not faceless corporate brands.
+
+### Strategic Rules for B2B LinkedIn:
+*   **Create Your Own Press (Text-Only):** You don't need videos, complex designs, or animations. Text-only content (like writing an internal Slack message) is enough to build an audience.
+*   **Personal Pages > Company Pages:** People want to hear from people. Thoughts from the CEO, VP of Sales, or VP of Marketing will always get more engagement than a post from a faceless brand page. 
+*   **The Real Role of Company Pages:** Use the company LinkedIn page purely to put out official news, updates, and to maintain employer branding (ensuring the company "looks legit" for potential hires).
+*   **Consistency over Viral Hits:** Writing on LinkedIn compounds. It is a long-term play. Writing one post a week for a month and giving up is the biggest point of failure. Treat it as a long-term PR investment.
