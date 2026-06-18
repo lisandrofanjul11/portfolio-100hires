@@ -18,8 +18,16 @@
 
 6. **It hands it all back as a set of notes** — The moment, detail, realisation, and the lesson.
 
-### The Main Business Lesson
+## Post 2: The 3-Rule Framework to Drive Traffic with Links
 
-Then it stops. It doesn't write the post. You do.
+I just proved it. You do not need to go viral to drive traffic. AND LinkedIn loves links in posts. Here's the proof from my last 21 posts:
+- 455,393 impressions
+- 3,213 link clicks
+- 1 click for every 142 impressions
 
-That's the whole point. Every other AI tool will happily write the post for you — which is exactly why everyone sounds the same now. This approach does the opposite: it pulls out the one thing only you could say (your lived experience), then gets out of your way.
+### The 3 Strict Rules:
+1. Every post has 1+ link
+2. 100 words maximum
+3. Text, or text + one image (no fancy designs - no carousels, no infographics)
+
+**Key Business Lesson:** Clicks grow your newsletter, lead magnet, or business. Impressions do, unfortunately, just feel good. Focus on what converts.
