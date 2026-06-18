@@ -8,9 +8,9 @@
 - Profile: https://www.linkedin.com/in/davegerhardt/
 - Reason: Founder of Exit Five and former B2B SaaS CMO. Shares practical marketing frameworks for software companies.
 
-3. **Justin Welsh**
-- Profile: https://www.linkedin.com/in/justinwelsh/
-- Reason: Expert in organic growth and audience building. His strategies are highly applicable to B2B SaaS founders.
+3. **Anthony Pierri**
+- Profile: https://www.linkedin.com/in/anthonypierri/
+- Reason: Specializes in Product Marketing, messaging, and positioning exclusively for B2B SaaS startups. Provides highly actionable frameworks to rewrite homepages and focus on the end-user (the Champion) instead of generic executive fluff.
 
 4. **Amanda Natividad**
 - Profile: https://www.linkedin.com/in/amandanatividad/
