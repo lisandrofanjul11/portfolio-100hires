@@ -1,8 +1,8 @@
 # B2B SaaS LinkedIn Content Experts
 
-1. **Chris Walker**
-- Profile: https://www.linkedin.com/in/chriswalker171/
-- Reason: Founder and former CEO of Refine Labs (exited in 2025). Widely recognized for redefining B2B SaaS demand generation.
+1. **Matt Barker**
+- Profile: https://www.linkedin.com/in/mattbarkercopy/
+- Reason: Ghostwriter for B2B SaaS founders. Provides highly tactical, step-by-step frameworks for organic content creation and copywriting.
 
 2. **Dave Gerhardt**
 - Profile: https://www.linkedin.com/in/davegerhardt/
