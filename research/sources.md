@@ -20,9 +20,9 @@
 - Profile: https://www.linkedin.com/in/peeplaja/
 - Reason: CEO of Wynter. Master of B2B messaging, positioning, and organic point-of-view content.
 
-6. **Udi Ledergor**
-- Profile: https://www.linkedin.com/in/udiledergor/
-- Reason: Chief Evangelist at Gong. A prime example of using LinkedIn organically to build a massive B2B brand.
+6. **Ashley Faus**
+- Profile: https://www.linkedin.com/in/ashleyfaus/
+- Reason: Director of Integrated Product Marketing at Atlassian. Expert in B2B content strategy, thought leadership frameworks, and ungated content distribution.
 
 7. **Devin Reed**
 - Profile: https://www.linkedin.com/in/devinreed/
@@ -32,10 +32,10 @@
 - Profile: https://www.linkedin.com/in/katebour/
 - Reason: CEO of Customer Camp. Specializes in buyer psychology and B2B marketing strategies on LinkedIn.
 
-9. **Jess Cook**
-- Profile: https://www.linkedin.com/in/jessicacook/
-- Reason: Head of Content at Island. Consistently shares highly tactical B2B SaaS content production strategies.
+9. **Kyle Poyar**
+- Profile: https://www.linkedin.com/in/kylepoyar/
+- Reason: Partner at OpenView. Provides top-tier B2B SaaS growth strategies, pricing frameworks, and operational models for Go-To-Market (GTM) teams.
 
-10. **Todd Clouser**
-- Profile: https://www.linkedin.com/in/toddclouser/
-- Reason: Lead Content Marketer. Focuses on creative organic B2B strategies that stand out from boring corporate posts.
+10. **April Dunford**
+- Profile: https://www.linkedin.com/in/aprildunford/
+- Reason: Author of *Obviously Awesome* and the world's leading expert on B2B SaaS positioning, product differentiation, and sales narratives.
