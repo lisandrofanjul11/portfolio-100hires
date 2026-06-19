@@ -1,4 +1,4 @@
-# [Nombre del Autor] - Recent LinkedIn Posts
+# Amanda Natividad - Recent LinkedIn Posts
 
 ## Post 1: Mapping Marketing Strategy to Growth Mechanisms
 
